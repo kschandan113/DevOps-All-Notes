@@ -1,0 +1,11 @@
+🔴 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 - 𝐏𝐚𝐫𝐭 𝟏 🔴
+
+A 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 can help to efficiently scale the number of replica pods, enable the rollout of updated code in a controlled manner, or roll back to an earlier deployment version if necessary.
+
+𝐂𝐨𝐦𝐦𝐨𝐧𝐥𝐲 𝐮𝐬𝐞𝐝 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 - 
+1. Rolling Update  
+2. Recreate 
+3. Canary
+4. Blue-Green
+
+🔹𝐑𝐨𝐥𝐥𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞 - Rolling updates allow deployment's update to take place with zero downtime by incrementally updating 𝐏𝐎𝐃 instances with new ones.
